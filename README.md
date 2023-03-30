@@ -1,0 +1,1 @@
+# LinearRegression-project-to-predict-the-per-capita-of-canada
